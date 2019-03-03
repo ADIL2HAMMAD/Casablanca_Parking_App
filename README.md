@@ -1,2 +1,3 @@
-# Casablanca_Parking_App
- Le parking Casablanca est un moyen plus intelligent de se garer, il aide les utilisateurs à trouver un endroit approprié pour garer leurs voitures, leurs motos ...
+# node-graphql-parking-app
+
+# graphql root query is working test on localhost:3000/graphql?
